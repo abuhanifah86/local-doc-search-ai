@@ -2,8 +2,7 @@
 
 Aplikasi web sederhana yang dibangun dengan Streamlit dan LlamaIndex untuk memungkinkan Anda melakukan pencarian dan tanya jawab pada dokumen Anda sendiri secara lokal. Aplikasi ini menggunakan model LLM dari Ollama dan model embedding lokal, memastikan semua data tetap berada di mesin Anda.
 
-![Contoh Aplikasi](https://via.placeholder.com/800x450.png?text=Tambahkan+Screenshot+Aplikasi+Anda+di+Sini)
-*(Sangat disarankan untuk mengganti gambar placeholder di atas dengan screenshot aplikasi Anda yang sedang berjalan)*
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/50149468-7a9d-40d1-8159-2fe086310a85" />
 
 ## ✨ Fitur
 
